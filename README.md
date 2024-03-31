@@ -2,4 +2,4 @@
 Hacking with python scripts
 ______
 
-Scripts
+Scripts for hacking
